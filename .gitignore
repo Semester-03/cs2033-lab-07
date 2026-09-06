@@ -1,0 +1,12 @@
+# Capture temp files
+*.pcapng.tmp
+*.pcap.tmp
+
+# Raw dumps
+*.rawcap
+
+# OS & Editor artifacts
+.vscode/
+.idea/
+Thumbs.db
+*~
